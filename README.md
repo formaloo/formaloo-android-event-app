@@ -34,7 +34,7 @@ and install the demo application.
 
 Clone this repository and import it into **Android Studio**
 
-git clone https://github.com/formaloo/???.git
+git clone [https://github.com/formaloo/???.git](https://github.com/formaloo/android-event-app.git)
 
 First of all, we need X-API-KEY.
 
