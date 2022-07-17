@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/bg"
+        android:gravity="fill" />
+    <item
+        android:width="@dimen/img_size_xs"
+        android:height="@dimen/img_size_xs"
+        android:drawable="@drawable/ic_logo"
+        android:gravity="center"
+        tools:targetApi="m"
+        tools:ignore="UnusedAttribute">
+
+    </item>
+</layer-list>

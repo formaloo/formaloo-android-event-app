@@ -1,0 +1,7 @@
+apply plugin: 'com.android.library'
+apply from: '../../android_commons.gradle'
+
+dependencies {
+    implementation project(":common")
+    implementation project(":data:model")
+}

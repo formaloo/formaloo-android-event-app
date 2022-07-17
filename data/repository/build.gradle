@@ -1,0 +1,9 @@
+apply plugin: 'com.android.library'
+apply from: '../../android_commons.gradle'
+
+dependencies {
+    implementation project(":common")
+    implementation project(":data:remote")
+    implementation project(":data:local")
+    implementation project(":data:model")
+}

@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LearningApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/learning</item>
+        <item name="colorPrimaryVariant">@color/learning</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/learning</item>
+        <item name="colorSecondaryVariant">@color/learning</item>
+        <item name="colorOnSecondary">@color/black</item>
+       
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bg</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        
+        <item name="android:fontFamily">@font/markpro</item>
+
+    </style>
+
+    <style name="Theme.LearningApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DrawerApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.DrawerApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/border_input</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxBackgroundMode">filled</item>
+        <item name="boxBackgroundColor">@color/colorWhite</item>
+        <item name="hintTextColor">@color/text_input</item>
+
+    </style>
+
+
+    <style name="SplashTheme" parent="Theme.LearningApp">
+        <item name="android:windowBackground">@drawable/back_splash</item>
+    </style>
+    
+    <style name="circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+
+    </style>
+
+    <style name="Regular">
+        <item name="android:ellipsize">end</item>
+        <item name="android:autoSizeMinTextSize" tools:targetApi="o">@dimen/font_2xsmall</item>
+        <item name="android:autoSizeMaxTextSize" tools:targetApi="o">@dimen/font_xlarge</item>
+        <item name="android:autoSizeStepGranularity" tools:targetApi="o">2dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:autoSizeMinTextSize" tools:targetApi="o">@dimen/font_2xsmall</item>
+        <item name="android:autoSizeMaxTextSize" tools:targetApi="o">@dimen/font_xlarge</item>
+        <item name="android:autoSizeStepGranularity" tools:targetApi="o">2dp</item>
+    </style>
+
+</resources>

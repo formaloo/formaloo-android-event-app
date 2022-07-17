@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "co.idearun.startup",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 222,
+      "versionName": "2.2.2",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

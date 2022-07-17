@@ -1,0 +1,3 @@
+BASE_URL:"https://api.staging.formaloo.com/"
+X_API_KEY:"key_gAAAAABh-NOoPsKLRLazva0XAn1ntRuOPM67SHpyZnX_bnpK-oFyS6KiF_6yU1KrgU9wyv8p-DkrL-k760RkYMjdDLBK4v5GOrYnCpBl4dbe7ZZ49S64escOcil6cGpOOF8LgWj4OX1HvuLsip7pMt2JCqViZhn0cA=="
+
