@@ -12,23 +12,23 @@ and install the demo application.
 
 <table>
   <tr>
-<td align="center"><img src="event_images/Home.png" height="400" ></td>
-<td align="center"><img src="event_images/TimeLine.png" height="400" ></td>
-<td align="center"><img src="event_images/Speakers.png" height="400" ></td>
-<td align="center"><img src="event_images/Registration.png" height="400" ></td>
+<td align="center"><img src="event_images/Home.png"  ></td>
+<td align="center"><img src="event_images/TimeLine.png"  ></td>
+<td align="center"><img src="event_images/Speakers.png" ></td>
+<td align="center"><img src="event_images/Registration.png" ></td>
   </tr>
   <tr>
-<td align="center"><img src="event_images/News.png" ></td>
 <td align="center"><img src="event_images/Polling.png" ></td>
 <td align="center"><img src="event_images/Surveycharts.png"></td>
+<td align="center"><img src="event_images/Gallery.png"></td>
+<td align="center"><img src="event_images/Album.png" ></td>
     </tr>
 
 <tr>
-<td align="center"><img src="event_images/Gallery.png" height="400" ></td>
-<td align="center"><img src="event_images/Album.png" height="400" ></td>
-<td align="center"><img src="event_images/More.png" height="400" ></td>
-<td align="center"><img src="event_images/Sponsors.png" height="400" ></td>
-<td align="center"><img src="event_images/FAQ.png" height="400" ></td>
+<td align="center"><img src="event_images/News.png" ></td>
+<td align="center"><img src="event_images/More.png"  ></td>
+<td align="center"><img src="event_images/Sponsors.png" ></td>
+<td align="center"><img src="event_images/FAQ.png"  ></td>
     </tr>
 </table>
 
