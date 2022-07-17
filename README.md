@@ -18,9 +18,9 @@ and install the demo application.
 <td align="center"><img src="event_images/Registration.png" height="400" ></td>
   </tr>
   <tr>
-<td align="center"><img src="event_images/News.png" height="400" ></td>
-<td align="center"><img src="event_images/Polling.png" height="400" ></td>
-<td align="center"><img src="event_images/Surveycharts.png" height="400" ></td>
+<td align="center"><img src="event_images/News.png" ></td>
+<td align="center"><img src="event_images/Polling.png" ></td>
+<td align="center"><img src="event_images/Surveycharts.png"></td>
     </tr>
 
 <tr>
